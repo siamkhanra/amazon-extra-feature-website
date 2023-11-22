@@ -1,0 +1,11 @@
+.cart-container{
+    margin-left: 10px;
+    background-color: goldenrod;
+    padding: 15px;
+    height: 100%;
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+    color: black;
+    font-weight: bolder;
+}
